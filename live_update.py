@@ -52,7 +52,7 @@ header_str = '%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s' % (
 	'percent_change_7d'
 	)
 
-print(header_str) # will need to remove once you are done 
+print(header_str) 
 
 while  1==1:
 	for i in range(0,len(cryptos)):
