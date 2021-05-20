@@ -1,7 +1,7 @@
 # superduper_crypto_crawler
 
 to gather current snapshot of prices run:
-python3 get_prices.py > crypto_data.csv
+python3 get_prices.py > crypto_data_snapshot.csv
 
 
 to initiate live update run:
